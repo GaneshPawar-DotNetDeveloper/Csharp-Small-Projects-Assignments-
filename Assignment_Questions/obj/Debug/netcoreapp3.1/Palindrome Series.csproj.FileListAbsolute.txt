@@ -1,0 +1,14 @@
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.csproj.AssemblyReference.cache
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.AssemblyInfoInputs.cache
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.AssemblyInfo.cs
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.csproj.CoreCompileInputs.cache
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\bin\Debug\netcoreapp3.1\Palindrome Series.exe
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\bin\Debug\netcoreapp3.1\Palindrome Series.deps.json
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\bin\Debug\netcoreapp3.1\Palindrome Series.runtimeconfig.json
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\bin\Debug\netcoreapp3.1\Palindrome Series.runtimeconfig.dev.json
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\bin\Debug\netcoreapp3.1\Palindrome Series.dll
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\bin\Debug\netcoreapp3.1\Palindrome Series.pdb
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.dll
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.pdb
+C:\Users\Manjiri\Source\Repos\Assignment_Questions\Assignment_Questions\obj\Debug\netcoreapp3.1\Palindrome Series.genruntimeconfig.cache
